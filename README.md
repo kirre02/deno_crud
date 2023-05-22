@@ -17,6 +17,6 @@ GET http://localhost:9444/task/:id | Gets a task by id
 
 PUT http://localhost:9444/task/:id | Updates a task by id
 
-POST http://localhost:9444/task/create | Gets a task by id
+POST http://localhost:9444/task/create | Creates a task
 
 DELETE http://localhost:9444/task/:id | Delete a task by id 
